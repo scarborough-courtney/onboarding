@@ -1,5 +1,5 @@
 ---
-title: Computing
+title: Computing Resources
 ---
 
 Here are computing resources.

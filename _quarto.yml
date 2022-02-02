@@ -29,7 +29,7 @@ website:
       - day-one.md
       - onboarding.md
       - expectations.md
-      - computing.md
+      - computing_resources.md
       - offboarding.md
 
 format:
