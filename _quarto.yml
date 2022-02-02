@@ -4,10 +4,10 @@ project:
 website: 
   page-navigation: true
   title: "Our onboarding guide" 
-  site-url: "https://openscapes.github.io/series" # change
+  site-url: "https://scarborough-courtney.github.io/onboarding" # change
 
  
-  repo-url: https://github.com/openscapes/series # change
+  repo-url: https://github.com/scarborough-courtney/onboarding # change
   repo-actions: [edit, issue]
   
   page-footer:
