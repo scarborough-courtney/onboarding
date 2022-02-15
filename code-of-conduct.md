@@ -40,7 +40,7 @@ If you are in immediate danger, please call 911 and seek assistance. If you are 
 
 -   Reporting directly to UCSB
 
--   File a formal report (anonymously if desired) with the University of California's system wide [intolerance report form](https://ucsystems.ethicspointvp.com/custom/ucs_ccc/default.asp)for campus climate issues including:
+-   File a formal report (anonymously if desired) with the University of California's system wide [intolerance report form](https://ucsystems.ethicspointvp.com/custom/ucs_ccc/default.asp) for campus climate issues including:
 
     -   Expressions of Bias
 
@@ -72,10 +72,69 @@ For **research integrity** reports, please report to the [UCSB Office of Researc
 
 If you are unsure how you would like to proceed, you may contact the UCSB [Office of the Ombuds](https://ombuds.ucsb.edu/) for confidential, informal consultation. The Office of the Ombuds is dedicated to ensuring fairness throughout the University and regularly makes recommendations for systemic change.
 
-## Introduction
+## How NCEAS Responds to Reports
 
-Text here.
+Know that NCEAS Leadership Team takes community safety, security, and inclusion seriously and will respond promptly to any reports of unacceptable behavior. The Leadership Team can direct people to all options available through the University of California system to assure that reporting is directed to the appropriate channels and treated with the appropriate level of urgency.
 
-## Another header
+The following list of potential sanctions may be taken when violations of the code of conduct are determined to have occurred, depending on the venue and the severity of the violation:
 
-More text here.
+-   Anyone requested to stop unacceptable behavior is expected to
+    comply immediately.
+
+-   NCEAS staff (or their designee) or security may take any immediate action deemed necessary and appropriate, including removal from a meeting, event, online community (e.g. email lists, community calls, forums, community platforms or software), and future engagement without warning.
+
+-   Removal from the NCEAS public webpage
+
+-   Ending a presentation early
+
+-   Immediately suspend certain responsibilities and privileges the accused holds
+
+-   Notification of the proper authorities
+
+Upon notification of a
+filed report, NCEAS will follow guidance from the respective law enforcement
+agency or campus compliance office in its response.
+
+[**Privacy and Confidentiality**]{.ul}
+
+NCEAS will make every effort to maintain the privacy of everyone involved to the degree allowed under law. However, there may be instances when the University's responsibility to respond to reports of potential discrimination and the rights of the accused (when relevant) outweigh the need for privacy.
+
+While a person's wish for confidentiality is important, it must be balanced against the University's responsibility to respond. The University will limit disclosures to what is reasonably necessary to engage in an appropriate response and remedy.
+
+[Campus Confidential Resources]{.ul}
+
+If you are unsure as to how to proceed and want to review a detailed inquiry relating to a concern about discrimination while maintaining *complete confidentiality*, UCSB offers several campus confidential resources that are available to faculty, staff, and students. Any disclosure made to these resources do not put the University on notice, and will not initiate a campus response. These resources can advise you on the available response options and support resources. These resources include:
+
+-   **Office of the Ombuds:** Acts as a confidential resource for the UCSB community to discuss concerns with a trained mediator. They serve faculty, staff, students, parents, or anyone else with a campus‐related concern.
+
+    -   \(805\) 893‐3285; [ombuds.ucsb.edu](https://ombuds.ucsb.edu/)
+
+-   **Academic & Staff Assistance Program (ASAP):** ASAP counselors promote the emotional health and well‐being of academic personnel, faculty, staff, and eligible family members in a confidential, cost‐free setting.
+
+    -   \(805\) 893‐3318; [hr.ucsb.edu/asap](https://www.hr.ucsb.edu/hr-units/employee-services/asap)
+
+-   **Title IX Advocacy Liaison in the Resource Center for Sexual and Gender Diversity (RCSGD):** RCSGD has a staff member who is designated as a confidential resource for reports of Prohibited Conduct. They serve faculty, staff, and students.
+
+    -   \(805\) 893‐4284; [rcsgd.sa.ucsb.edu](https://rcsgd.sa.ucsb.edu/)
+
+**Potential Campus Responses** to each situation vary from informal responses to formal processes. The responses are determined by the reported conduct, applicable policies, and assessment of the relevant campus stakeholders with bconsideration of the complainant's preferred response.
+
+**Protection from Retaliation** University policy also prohibits retaliation against any employee or applicant who reports a complaint of discrimination or harassment, or who participates in any manner in an investigation or resolution of a complaint.
+
+## Further Reference
+
+**UC/UCSB Policies**
+
+-   [UC Policy on Discrimination, Harassment, and Affirmative Action in the Workplac](https://policy.ucop.edu/doc/4000376/DiscHarassAffirmAction)e
+
+-   [UC Sexual Violence and Sexual Harassment Policy](https://policy.ucop.edu/doc/4000385/SVSH)
+
+-   [UCSB Faculty Code of Conduct](https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-015.pdf)
+
+-   [UCSB Student Code of Conduct](http://www.sa.ucsb.edu/docs/default-source/default-document-library/conduct-code-fall-2020_final.pdf?sfvrsn=fada724f_0)
+
+**UCSB Campus Resources**
+
+-   [UCSB CARE Office](http://wgse.sa.ucsb.edu/care/home)
+
+-   [[Resources for Impacted Parties]{.ul}](https://titleix.ucsb.edu/resources-for-impacted-parties)
