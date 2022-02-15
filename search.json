@@ -1,15 +1,22 @@
 [
   {
-    "objectID": "day-one.html#introduction",
-    "href": "day-one.html#introduction",
-    "title": "Day One",
+    "objectID": "code-of-conduct.html#expected-behavior",
+    "href": "code-of-conduct.html#expected-behavior",
+    "title": "Code of Conduct",
+    "section": "Expected Behavior",
+    "text": "Expected Behavior\nIn following this code of conduct, please keep in mind the following expectations about behavior, which are essential for creating a welcoming and safe environment:\n\nTreat all participants with kindness, respect and consideration, valuing a diversity of views and opinions (including those you may not share). ● Communicate openly, with respect for other participants, critiquing ideas rather than individuals.\nRefrain from demeaning, discriminatory, or harassing behavior and speech directed toward other participants.\nBe mindful of your surroundings and of your fellow participants. Alert NCEAS staff if you notice a dangerous situation or someone in distress (see Reporting Unacceptable Behavior below).\nRespect the rules and policies of the meeting venue, hotels, NCEAS-contracted facility, or any other venue.\nRespect people’s boundaries.\nBe considerate in your interactions with others and careful about the words you use. Consider if the language that you’re using can be perceived as discriminatory.\nBe mindful of how much time and space you take up. Be aware of the dynamics of power and privilege, and whether you may be taking advantage of it."
+  },
+  {
+    "objectID": "code-of-conduct.html#introduction",
+    "href": "code-of-conduct.html#introduction",
+    "title": "Code of Conduct",
     "section": "Introduction",
     "text": "Introduction\nText here."
   },
   {
-    "objectID": "day-one.html#another-header",
-    "href": "day-one.html#another-header",
-    "title": "Day One",
+    "objectID": "code-of-conduct.html#another-header",
+    "href": "code-of-conduct.html#another-header",
+    "title": "Code of Conduct",
     "section": "Another header",
     "text": "Another header\nMore text here."
   },
@@ -49,16 +56,16 @@
     "text": "Another header\nMore text here."
   },
   {
-    "objectID": "code-of-conduct.html#introduction",
-    "href": "code-of-conduct.html#introduction",
-    "title": "Code of Conduct",
+    "objectID": "day-one.html#introduction",
+    "href": "day-one.html#introduction",
+    "title": "Day One",
     "section": "Introduction",
     "text": "Introduction\nText here."
   },
   {
-    "objectID": "code-of-conduct.html#another-header",
-    "href": "code-of-conduct.html#another-header",
-    "title": "Code of Conduct",
+    "objectID": "day-one.html#another-header",
+    "href": "day-one.html#another-header",
+    "title": "Day One",
     "section": "Another header",
     "text": "Another header\nMore text here."
   },
