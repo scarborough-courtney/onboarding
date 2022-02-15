@@ -95,7 +95,7 @@ Upon notification of a
 filed report, NCEAS will follow guidance from the respective law enforcement
 agency or campus compliance office in its response.
 
-[**Privacy and Confidentiality**]{.ul}
+[Privacy and Confidentiality]{.ul}
 
 NCEAS will make every effort to maintain the privacy of everyone involved to the degree allowed under law. However, there may be instances when the University's responsibility to respond to reports of potential discrimination and the rights of the accused (when relevant) outweigh the need for privacy.
 
