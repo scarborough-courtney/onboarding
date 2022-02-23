@@ -2,7 +2,7 @@
 title: Computing Resources
 ---
 
-For more information on all things computing-related at NCEAS you can visit our [Computing wiki](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/). All sections of our wiki are also linked here below:
+For more information on all things computing-related at NCEAS you can visit our [Computing wiki](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/). All sections of our wiki are also linked here below: up
 
 ## Residents
 
