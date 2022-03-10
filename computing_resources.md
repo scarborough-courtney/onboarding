@@ -34,19 +34,9 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 -   [Scientific Computing for Ecologists](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/scientific_computing_for_ecologists.html) - check out our supported collaborative tools and software for scientific computing and collaboration at NCEAS.
 
--   [Servers for file storage and processing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/high_performance_computing.html) - NCEAS hosts several servers that provide access to secure remote storage and powerful multicore processing capabilities. It is definitely worth getting to know how to use these! Why
+-   [Servers for file storage and processing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/high_performance_computing.html) - NCEAS hosts several servers that provide access to secure remote storage and powerful multicore processing capabilities.
 
-    -   Hundreds of GB of RAM for fast memory-intensive processing!
-
-    -   Dozens of CPU cores for parallel processing!
-
-    -   Tens of TB of fast-access, backed-up storage!
-
-    -   Easy remote access via web interfaces and SSH!
-
-    -   And your processes can run in the background
-
-        -   Contact Nick or Thomas (at help\@nceas.ucsb.edu) to get set up with a username and password for server access. If you would like help learning how to take advantage of the server's capabilities, ask the computing team, or find someone involved in these types of analyses at NCEAS
+    -   Contact Nick or Thomas (at help\@nceas.ucsb.edu) to get set up with a username and password for server access. If you would like help learning how to take advantage of the server's capabilities, ask the computing team, or find someone involved in these types of analyses at NCEAS
 
 ## Conference Rooms & Video Conferencing
 
