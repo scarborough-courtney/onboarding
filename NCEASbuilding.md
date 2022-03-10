@@ -23,5 +23,3 @@ NCEAS is located at 1021 Anacapa in downtown Santa Barbara. We have designed our
 -   **Our First Aid Kit** is located in the kitchen in the bottom drawer under the water system.
 
 -   [Printing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/installing_printer_drivers.html) - Instructions for installing and using printers at NCEAS.
-
--   
