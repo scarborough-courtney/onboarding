@@ -8,6 +8,14 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 -   [Email](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/email.html) - Learn more about how we use the Gmail web interface and sign up for our listservs and Google groups.
 
+    -   Email Thomas Hetmank (hetmank\@nceas.ucsb.edu) to first help you set up your email & register for the following listservs:
+
+        -   all\@nceas.ucsb.edu - links you to everyone at NCEAS
+
+        -   scientists\@nceas.ucsb.edu - links you to all researchers at NCEAS
+
+        -   social\@nceas.ucsb.edu - links you to social activities with NCEAS folks
+
 -   [Calendaring](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/calendaring.html) - At NCEAS we use Google Calendar to schedule our meetings and our meeting rooms. Learn more about our Google calendaring system.
 
 -   [Slack](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/chat_room_setup.html) - We stay connected for remote collaboration and community exchanges using Slack. Learn more about Slack and sign up for the NCEAS organization.
