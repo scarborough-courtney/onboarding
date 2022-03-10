@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Our Onboarding Process",
+    "section": "About",
+    "text": "About\nAbout us."
+  },
+  {
+    "objectID": "day-one.html#introduction",
+    "href": "day-one.html#introduction",
+    "title": "Day One",
+    "section": "Introduction",
+    "text": "Introduction\nText here."
+  },
+  {
+    "objectID": "day-one.html#another-header",
+    "href": "day-one.html#another-header",
+    "title": "Day One",
+    "section": "Another header",
+    "text": "Another header\nMore text here."
+  },
+  {
     "objectID": "code-of-conduct.html#expected-behavior",
     "href": "code-of-conduct.html#expected-behavior",
     "title": "Code of Conduct",
@@ -32,7 +53,7 @@
     "href": "computing_resources.html#residents",
     "title": "Computing Resources",
     "section": "Residents",
-    "text": "Residents\n\nStaying Connected when Working from Home\nSlack\nPrinting\nEmail\nCalendaring\nRemote Access\nScientific Computing for Ecologists\nHigh Performance Computing"
+    "text": "Residents\n\nCalendaring - At NCEAS we use Google Calendar to schedule our meetings and our meeting rooms. Learn more about our Google Calendaring system.\nSlack - We stay connected for remote collaboration and community exchanges using Slack. Learn more about Slack and sign up for the NCEAS organization.\nPrinting - Instructions for installing and using printers at NCEAS.\nEmail\nRemote Access\nScientific Computing for Ecologists\nHigh Performance Computing\nStaying Connected when Working from Home"
   },
   {
     "objectID": "computing_resources.html#visitors",
@@ -40,41 +61,6 @@
     "title": "Computing Resources",
     "section": "Visitors",
     "text": "Visitors\n\nConnecting to the Network\nPrinting\nLaptops for checkout\nConference Rooms & Computer Lab\nPresentation Infrastructure\nVideo Conferencing"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Our Onboarding Process",
-    "section": "About",
-    "text": "About\nAbout us."
-  },
-  {
-    "objectID": "offboarding.html#introduction",
-    "href": "offboarding.html#introduction",
-    "title": "Onboarding",
-    "section": "Introduction",
-    "text": "Introduction\nText here."
-  },
-  {
-    "objectID": "offboarding.html#another-header",
-    "href": "offboarding.html#another-header",
-    "title": "Onboarding",
-    "section": "Another header",
-    "text": "Another header\nMore text here."
-  },
-  {
-    "objectID": "day-one.html#introduction",
-    "href": "day-one.html#introduction",
-    "title": "Day One",
-    "section": "Introduction",
-    "text": "Introduction\nText here."
-  },
-  {
-    "objectID": "day-one.html#another-header",
-    "href": "day-one.html#another-header",
-    "title": "Day One",
-    "section": "Another header",
-    "text": "Another header\nMore text here."
   },
   {
     "objectID": "expectations.html#introduction",
@@ -101,6 +87,20 @@
     "objectID": "culture-philosophy.html#another-header",
     "href": "culture-philosophy.html#another-header",
     "title": "Culture and philosophy",
+    "section": "Another header",
+    "text": "Another header\nMore text here."
+  },
+  {
+    "objectID": "offboarding.html#introduction",
+    "href": "offboarding.html#introduction",
+    "title": "Onboarding",
+    "section": "Introduction",
+    "text": "Introduction\nText here."
+  },
+  {
+    "objectID": "offboarding.html#another-header",
+    "href": "offboarding.html#another-header",
+    "title": "Onboarding",
     "section": "Another header",
     "text": "Another header\nMore text here."
   }
