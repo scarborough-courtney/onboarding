@@ -8,6 +8,8 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 -   [Email](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/email.html) - Learn more about how we use the Gmail web interface and sign up for our listservs and Google groups.
 
+    -   You should receive your email login information on the first day. If you need your email prior your arrival, please contact [help\@nceas.ucsb.edu](mailto:help@nceas.ucsb.edu) with your PI cc'ed requesting your email address.
+
     -   Email Thomas Hetmank (hetmank\@nceas.ucsb.edu) to first help you set up your email & register for the following listservs:
 
         -   all\@nceas.ucsb.edu - links you to everyone at NCEAS
@@ -32,7 +34,19 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 -   [Scientific Computing for Ecologists](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/scientific_computing_for_ecologists.html) - check out our supported collaborative tools and software for scientific computing and collaboration at NCEAS.
 
--   [High Performance Computing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/high_performance_computing.html) - Learn more about access to our servers and connecting to virtual machines.
+-   [Servers for file storage and processing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/high_performance_computing.html) - NCEAS hosts several servers that provide access to secure remote storage and powerful multicore processing capabilities. It is definitely worth getting to know how to use these! Why
+
+    -   Hundreds of GB of RAM for fast memory-intensive processing!
+
+    -   Dozens of CPU cores for parallel processing!
+
+    -   Tens of TB of fast-access, backed-up storage!
+
+    -   Easy remote access via web interfaces and SSH!
+
+    -   And your processes can run in the background
+
+        -   Contact Nick or Thomas (at help\@nceas.ucsb.edu) to get set up with a username and password for server access. If you would like help learning how to take advantage of the server's capabilities, ask the computing team, or find someone involved in these types of analyses at NCEAS
 
 ## Conference Rooms & Video Conferencing
 
