@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://scarborough-courtney.github.io/onboarding/code-of-conduct.html</loc>
-    <lastmod>2022-03-10T22:45:04.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scarborough-courtney.github.io/onboarding/computing_resources.html</loc>
-    <lastmod>2022-03-10T22:45:06.358Z</lastmod>
-  </url>
-  <url>
     <loc>https://scarborough-courtney.github.io/onboarding/index.html</loc>
-    <lastmod>2022-03-10T22:45:06.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scarborough-courtney.github.io/onboarding/offboarding.html</loc>
-    <lastmod>2022-03-10T22:45:06.974Z</lastmod>
+    <lastmod>2022-03-10T22:55:18.048Z</lastmod>
   </url>
   <url>
     <loc>https://scarborough-courtney.github.io/onboarding/day-one.html</loc>
-    <lastmod>2022-03-10T22:45:07.310Z</lastmod>
+    <lastmod>2022-03-10T22:55:19.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scarborough-courtney.github.io/onboarding/code-of-conduct.html</loc>
+    <lastmod>2022-03-10T22:55:19.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scarborough-courtney.github.io/onboarding/computing_resources.html</loc>
+    <lastmod>2022-03-10T22:55:19.940Z</lastmod>
   </url>
   <url>
     <loc>https://scarborough-courtney.github.io/onboarding/expectations.html</loc>
-    <lastmod>2022-03-10T22:45:07.610Z</lastmod>
+    <lastmod>2022-03-10T22:55:20.276Z</lastmod>
   </url>
   <url>
     <loc>https://scarborough-courtney.github.io/onboarding/culture-philosophy.html</loc>
-    <lastmod>2022-03-10T22:45:07.914Z</lastmod>
+    <lastmod>2022-03-10T22:55:20.588Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scarborough-courtney.github.io/onboarding/offboarding.html</loc>
+    <lastmod>2022-03-10T22:55:20.916Z</lastmod>
   </url>
 </urlset>
