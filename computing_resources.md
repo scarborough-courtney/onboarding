@@ -6,21 +6,21 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 ## Residents
 
--   [Staying Connected when Working from Home](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/working_from_home.html)
+-   [Calendaring](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/calendaring.html) - At NCEAS we use Google Calendar to schedule our meetings and our meeting rooms. Learn more about our Google [Calendaring](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/calendaring.html) system.
 
--   [Slack](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/chat_room_setup.html)
+-   [Slack](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/chat_room_setup.html) - We stay connected for remote collaboration and community exchanges using Slack. Learn more about Slack and sign up for the NCEAS organization.
 
--   [Printing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/installing_printer_drivers.html)
+-   [Printing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/installing_printer_drivers.html) - Instructions for installing and using printers at NCEAS.
 
 -   [Email](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/email.html)
-
--   [Calendaring](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/calendaring.html)
 
 -   [Remote Access](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/remote_access.html)
 
 -   [Scientific Computing for Ecologists](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/scientific_computing_for_ecologists.html)
 
 -   [High Performance Computing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/high_performance_computing.html)
+
+-   [Staying Connected when Working from Home](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/working_from_home.html)
 
 ## Visitors
 
