@@ -22,16 +22,8 @@ For more information on all things computing-related at NCEAS you can visit our 
 
 -   [Staying Connected when Working from Home](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/working_from_home.html) - check out our tools and practices for staying connected remotely.
 
-## Visitors
+-   [Laptops for checkout](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/laptops_for_checkout.html) - We have laptops available for temporary check-out for meetings or other limited uses. Contact Thomas in office #321 for more details.
 
--   [Connecting to the Network](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/how_to_connect_to_the_nceas_wireless_network.html)
+-   [Conference Rooms](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/conference_rooms.html) - Learn more about each of our conference rooms and how to operate the AV systems for meetings on site and virtually
 
--   [Printing](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/installing_printer_drivers.html)
-
--   [Laptops for checkout](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/laptops_for_checkout.html)
-
--   [Conference Rooms & Computer Lab](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/conference_rooms.html)
-
--   [Presentation Infrastructure](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/presenting.html)
-
--   [Video Conferencing](https://goo.gl/S5Th7W)
+-   [Video Conferencing](https://goo.gl/S5Th7W) - Learn more about video conferencing using Zoom at NCEAS.
