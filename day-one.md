@@ -8,6 +8,8 @@ Welcome to NCEAS! We are so excited to have you join our community and hope that
 
 All of the introductory emails you received from NCEAS staff members prior to your arrival can be found in our [NCEAS Community](https://drive.google.com/drive/folders/1GnAUmRGTCF1W8sWUuxD2e5SxcjMLljba?usp=sharing) shared Google Drive.
 
+Make sure you visit our [Welcome Website](https://nceaswelcome.weebly.com/) for more information on the NCEAS and UCSB community. There is a ton of really useful and timely tips there to help.
+
 ## NCEAS Community
 
 **NCEAS has a few weekly events that will help you get to know the community and how we work.**
