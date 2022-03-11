@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Our Onboarding Process",
+    "section": "About",
+    "text": "About\nAbout us."
+  },
+  {
+    "objectID": "day-one.html#before-you-arrive",
+    "href": "day-one.html#before-you-arrive",
+    "title": "Day One",
+    "section": "Before you arrive",
+    "text": "Before you arrive\nAll of the introductory emails you received from NCEAS staff members prior to your arrival can be found in our NCEAS Community shared Google Drive.\nMake sure you visit our Welcome Website for more information on the NCEAS and UCSB community. There is a ton of really useful and timely tips there to help."
+  },
+  {
+    "objectID": "day-one.html#nceas-community",
+    "href": "day-one.html#nceas-community",
+    "title": "Day One",
+    "section": "NCEAS Community",
+    "text": "NCEAS Community\nNCEAS has a few weekly events that will help you get to know the community and how we work.\n\nCoffee Klatch: On Tuesdays at 10:30am, the NCEAS community gathers for Coffee Klatch in the NCEAS lounge to share announcements, coffee, and a chance to mingle with the whole community. Please keep this regular event in your calendar! Coffee Klatch normally lasts about 15 minutes, with more time for mingling as desired. \nRoundtable: NCEAS Roundtable research presentations are in the lounge at 11:30am on most Wednesdays. You will receive an email in advance with information about the week’s speaker or topic. \n\nSlack: Many NCEAS staff use the platform Slack to communicate with each other about daily tasks, new research, office events, and fun social outings. Please join this community and engage as deeply as you’d like! You can create a Slack account and sign up for different group “channels” here: https://slack.nceas.ucsb.edu/ (e.g., browse or search to join the #social channel and stay aware of community events or ask your co-workers about after work activities).\nLiving in SB: Your NCEAS colleagues created this website with a plethora of helpful info about living in Santa Barbara and working at NCEAS, e.g. library access, campus info, and more: https://nceaswelcome.weebly.com\nTo see the NCEAS Community Calendar: https://calendar.google.com/calendar?cid=azVvdThzZjM5ZXNrMTdiMG92bHVqYXJ2ajhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ (The calendar is public and the link will offer it being added to your calendar.)\nDiversity: NCEAS has a Diversity Committee that supports community diversity initiatives and is made up of representatives from the community. Committee appointments are made annually, and we encourage you to participate. Please see the NCEAS Strategic Plan for Diversity, Equity, and Inclusion (DEI) for more on NCEAS’ commitment to inclusivity in science. If you have feedback on our DEI initiatives during your time at NCEAS, please feel free to speak to anybody on the Diversity Committee, or share thoughts in this anonymous form. More resources on family friendliness, accessibility, anti-racism, and gender equity can be found at this link: https://www.nceas.ucsb.edu/inclusivity-commitment\n\nBy joining the NCEAS community, you are agreeing to abide by our Code of Conduct."
+  },
+  {
     "objectID": "code-of-conduct.html#expected-behavior",
     "href": "code-of-conduct.html#expected-behavior",
     "title": "Code of Conduct",
@@ -49,41 +70,6 @@
     "text": "Conference Rooms & Video Conferencing\n\nConference Rooms - Learn more about each of our conference rooms and how to operate the AV systems for meetings on site and virtually\nVideo Conferencing - Learn more about video conferencing using Zoom at NCEAS."
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Our Onboarding Process",
-    "section": "About",
-    "text": "About\nAbout us."
-  },
-  {
-    "objectID": "offboarding.html#introduction",
-    "href": "offboarding.html#introduction",
-    "title": "Onboarding",
-    "section": "Introduction",
-    "text": "Introduction\nText here."
-  },
-  {
-    "objectID": "offboarding.html#another-header",
-    "href": "offboarding.html#another-header",
-    "title": "Onboarding",
-    "section": "Another header",
-    "text": "Another header\nMore text here."
-  },
-  {
-    "objectID": "day-one.html#before-you-arrive",
-    "href": "day-one.html#before-you-arrive",
-    "title": "Day One",
-    "section": "Before you arrive",
-    "text": "Before you arrive\nAll of the introductory emails you received from NCEAS staff members prior to your arrival can be found in our NCEAS Community shared Google Drive.\nMake sure you visit our Welcome Website for more information on the NCEAS and UCSB community. There is a ton of really useful and timely tips there to help."
-  },
-  {
-    "objectID": "day-one.html#nceas-community",
-    "href": "day-one.html#nceas-community",
-    "title": "Day One",
-    "section": "NCEAS Community",
-    "text": "NCEAS Community\nNCEAS has a few weekly events that will help you get to know the community and how we work.\n\nCoffee Klatch: On Tuesdays at 10:30am, the NCEAS community gathers for Coffee Klatch in the NCEAS lounge to share announcements, coffee, and a chance to mingle with the whole community. Please keep this regular event in your calendar! Coffee Klatch normally lasts about 15 minutes, with more time for mingling as desired. \nRoundtable: NCEAS Roundtable research presentations are in the lounge at 11:30am on most Wednesdays. You will receive an email in advance with information about the week’s speaker or topic. \n\nSlack: Many NCEAS staff use the platform Slack to communicate with each other about daily tasks, new research, office events, and fun social outings. Please join this community and engage as deeply as you’d like! You can create a Slack account and sign up for different group “channels” here: https://slack.nceas.ucsb.edu/ (e.g., browse or search to join the #social channel and stay aware of community events or ask your co-workers about after work activities).\nLiving in SB: Your NCEAS colleagues created this website with a plethora of helpful info about living in Santa Barbara and working at NCEAS, e.g. library access, campus info, and more: https://nceaswelcome.weebly.com\nTo see the NCEAS Community Calendar: https://calendar.google.com/calendar?cid=azVvdThzZjM5ZXNrMTdiMG92bHVqYXJ2ajhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ (The calendar is public and the link will offer it being added to your calendar.)\nDiversity: NCEAS has a Diversity Committee that supports community diversity initiatives and is made up of representatives from the community. Committee appointments are made annually, and we encourage you to participate. Please see the NCEAS Strategic Plan for Diversity, Equity, and Inclusion (DEI) for more on NCEAS’ commitment to inclusivity in science. If you have feedback on our DEI initiatives during your time at NCEAS, please feel free to speak to anybody on the Diversity Committee, or share thoughts in this anonymous form. More resources on family friendliness, accessibility, anti-racism, and gender equity can be found at this link: https://www.nceas.ucsb.edu/inclusivity-commitment\n\nBy joining the NCEAS community, you are agreeing to abide by our Code of Conduct."
-  },
-  {
     "objectID": "culture-philosophy.html#introduction",
     "href": "culture-philosophy.html#introduction",
     "title": "Culture and philosophy",
@@ -110,5 +96,19 @@
     "title": "NCEAS Building",
     "section": "Other Building Resources",
     "text": "Other Building Resources\n\nOur First Aid Kit is located in the kitchen in the bottom drawer under the water system.\nPrinting - Instructions for installing and using printers at NCEAS."
+  },
+  {
+    "objectID": "offboarding.html#introduction",
+    "href": "offboarding.html#introduction",
+    "title": "UCSB Systems and Tutorials",
+    "section": "Introduction",
+    "text": "Introduction\nTimecards - More information on accessing Kronos (our timecard system) and recording your time\n\nAm I a Monthly Employee or a Biweekly Employee? - To figure out if you are a monthly or biweekly employee, please check your offer letter. If you have an annual salary, then you are a monthly employee. If you have an hourly rate, then you are a biweekly employee. The only exception to this rule is monthly-students, which occurs when a student has multiple appointments, and one of the appointments is a TA-ship.\n\nUC Learning Center - If you have previously had access to the UC Learning Center and are having trouble now accessing it with your current appointment, please:\n\nEmail info@learningcenter.ucsb.edu and ask to reactivate your account\nInclude your full legal name, UCSBNetID, current sponsor department (NCEAS, or department code NCEA), and PI/Manager/Instructor\nUCSB Learning Center will then send you more detailed instructions on how to access your account.\n\nUCSB Access Cards - Please visit https://ucsbaccesscard.com/ for more information.\nUCSB Library Cards - Visit https://www.library.ucsb.edu/services/staff for more information on how to get a library card. Also, please note that you will need a UCSB Access Card to use the library.\nPaying for something using grant funding - If you need to order technical supplies, please contact Thomas Hetmank at hetmank@nceas.ucsb.edu. Anything travel related should be done through Concur. Any other type of ordering/ payment (i.e. publishing fees), please contact Isabel Clark at iclark@nceas.ucsb.edu.\nTravel Reimbursements - to learn more about reimbursements through the UCSB Concur system, visit our step-by-step guide to Concur for travel and entertainment costs."
+  },
+  {
+    "objectID": "offboarding.html#another-header",
+    "href": "offboarding.html#another-header",
+    "title": "UCSB Systems and Tutorials",
+    "section": "Another header",
+    "text": "Another header\nMore text here."
   }
 ]
