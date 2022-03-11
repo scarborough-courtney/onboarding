@@ -22,6 +22,8 @@ Paying for something using grant funding - If you need to order technical suppli
 
 [Travel Reimbursements](https://docs.google.com/document/d/16bEDK0dLIqsNH6hU_oKV3XqaAsNIn_1k/edit) - to learn more about reimbursements through the UCSB Concur system, visit our [step-by-step guide to Concur](https://docs.google.com/document/d/16bEDK0dLIqsNH6hU_oKV3XqaAsNIn_1k/edit) for travel and entertainment costs.
 
+[UCSB Health Benefits](http://www.hr.ucsb.edu/benefits)
+
 ## Another header
 
 More text here.
