@@ -2,10 +2,6 @@
 title: UCSB Systems and Tutorials
 ---
 
-Here are onboarding procedures.
-
-## Introduction
-
 [Timecards](https://docs.google.com/document/d/1A56m-tUY9Cjve1UoxEmGYDj-t84TShxW9PTGlmghDa4/edit) - More information on accessing Kronos (our timecard system) and recording your time
 
 -   Am I a Monthly Employee or a Biweekly Employee? - To figure out if you are a monthly or biweekly employee, please check your offer letter. If you have an annual salary, then you are a monthly employee. If you have an hourly rate, then you are a biweekly employee. The **only** exception to this rule is monthly-students, which occurs when a student has multiple appointments, and one of the appointments is a TA-ship.
