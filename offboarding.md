@@ -1,5 +1,5 @@
 ---
-title: UCSB Systems and Tutorials
+title: Admin Systems
 ---
 
 [Timecards](https://docs.google.com/document/d/1A56m-tUY9Cjve1UoxEmGYDj-t84TShxW9PTGlmghDa4/edit) - More information on accessing Kronos (our timecard system) and recording your time
