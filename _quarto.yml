@@ -15,7 +15,7 @@ website:
     left: "&copy; CC-NCEAS Community, 2022"
     
   sidebar:
-    logo: "images/NCEAS-full-logo"
+    logo: "images/NCEAS-full-logo.png"
     pinned: true
     align: center
 
