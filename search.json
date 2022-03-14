@@ -56,13 +56,6 @@
     "text": "About\nAbout us."
   },
   {
-    "objectID": "offboarding.html#another-header",
-    "href": "offboarding.html#another-header",
-    "title": "Admin Systems",
-    "section": "Another header",
-    "text": "Another header\nMore text here."
-  },
-  {
     "objectID": "day-one.html#before-you-arrive",
     "href": "day-one.html#before-you-arrive",
     "title": "Day One",
@@ -101,6 +94,13 @@
     "objectID": "culture-philosophy.html#another-header",
     "href": "culture-philosophy.html#another-header",
     "title": "Culture and philosophy",
+    "section": "Another header",
+    "text": "Another header\nMore text here."
+  },
+  {
+    "objectID": "admin.html#another-header",
+    "href": "admin.html#another-header",
+    "title": "Admin Systems",
     "section": "Another header",
     "text": "Another header\nMore text here."
   }
