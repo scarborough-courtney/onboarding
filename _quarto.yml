@@ -12,10 +12,10 @@ website:
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Our team, 2022"
+    left: "&copy; CC-NCEAS Community, 2022"
     
   sidebar:
-    logo: "images/NCEAS-full logo-4C"
+    logo: "images/NCEAS-full-logo"
     pinned: true
     align: center
 
