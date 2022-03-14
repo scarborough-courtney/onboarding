@@ -14,7 +14,7 @@ NCEAS is located at 1021 Anacapa in downtown Santa Barbara. We have designed our
 
 -   **Classroom** - NCEAS has a large classroom that holds up to 90 people.
 
--   Family Room -
+-   **Family Room** - Our family room is located on the first floor and is open to people that need privacy for periods of time throughout the day. Check in with Ginger in the front office to reserve time.
 
 [Reserving Meeting Spaces](https://pages.github.nceas.ucsb.edu/NCEAS/Computing/conference_rooms.html) - Learn about how to use our calendaring system for checking out our shared meeting spaces.
 
