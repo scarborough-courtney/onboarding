@@ -25,7 +25,6 @@ website:
     contents:
       - index.md
       - day-one.md
-      - culture-philosophy.md
       - code-of-conduct.md
       - onboarding.md
       - computing_resources.md
