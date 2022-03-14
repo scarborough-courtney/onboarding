@@ -28,9 +28,9 @@ website:
       - culture-philosophy.md
       - code-of-conduct.md
       - onboarding.md
-      - building.md
       - computing_resources.md
-      - offboarding.md
+      - admin.md
+      - building.md
 
 format:
   html:
