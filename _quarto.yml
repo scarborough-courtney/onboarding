@@ -24,9 +24,9 @@ website:
     collapse-level: 1
     contents:
       - index.md
+      - day-one.md
       - culture-philosophy.md
       - code-of-conduct.md
-      - day-one.md
       - onboarding.md
       - expectations.md
       - computing_resources.md
