@@ -1,5 +1,5 @@
 ---
-title: offboarding
+title: Offboarding
 ---
 
 **Before you leave NCEAS please make sure to follow this check-list**
