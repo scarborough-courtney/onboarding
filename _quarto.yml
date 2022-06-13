@@ -30,7 +30,7 @@ website:
       - computing_resources.md
       - admin.md
       - building.md
-      - Offboarding.md
+      - offboarding.md
 
 format:
   html:
