@@ -30,7 +30,7 @@ website:
       - computing_resources.md
       - admin.md
       - building.md
-      - Remote-work-policy.md
+      - RemoteWorkPolicy.md
       - offboarding.md
 
 format:
