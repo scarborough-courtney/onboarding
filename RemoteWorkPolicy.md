@@ -2,10 +2,6 @@
 title: Remote Work Policy
 ---
 
-**NCEAS Remote Work Policy**
-
-\[updated: June 8, 2021\]
-
 **Purpose/vision**: to create a thriving, inclusive community that learns and embraces the culture and practice of open environmental data science.
 
 **Rationale**: A big part of the experience of being at NCEAS is being part of the community and the immersive experience this offers. Through peer mentoring, serendipitous interactions, and living and breathing open data science, residency at NCEAS regularly offers a transformative experience for people's careers. We put a high priority on building community while building careers.
